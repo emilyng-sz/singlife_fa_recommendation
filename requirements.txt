@@ -1,0 +1,2 @@
+pandas
+pyarrow-19.0.0
