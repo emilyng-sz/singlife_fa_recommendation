@@ -10,7 +10,6 @@ This project is our submission for 6-day Datathon held by NUS Statistics and Dat
 - **[How to run the project](#how-to-run-the-project)**<br>
 - **[Using our Model ](#using-our-model)**<br>
 
-
 ## About the Project
 To enhance client-advisor collaborations in the financial services industry, we propose a solution that leverages machine learning to match the most suitable financial advisors for customers. Our approach involves training multiple Random Forest Classifier models to learn patterns from past agent-client interactions. This project provides a novel and efficient method for more personalised and efficient client-advisor collaborations.
 
@@ -18,7 +17,6 @@ To enhance client-advisor collaborations in the financial services industry, we 
 With multiple Random Forest Classifiers to predict individual agent features, along with a cosine similarity metric, we achieved a good performance with a **33% accuracy**, where accuracy is defined as the correct agent being in the top 10 preferred agents based on our model. 
 
 Considering that there are 8767 unique agents, we believe that being able to predict a correct match for 33% of the clients is already a significant achievement since our model is able to predict the correct agent within 1% of all available agents.
-
   
 ## How to run the project
 1. Clone this repository to your local machine

@@ -4,6 +4,9 @@
 # dataset folder
 *data
 
+# report folder
+*report
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
